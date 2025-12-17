@@ -29,6 +29,10 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en" className="antialiased">
+      <head>
+        <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+        <meta name="theme-color" content="#000000" />
+      </head>
       <body className={cn("min-h-screen bg-background font-sans text-foreground", outfit.variable, jetbrainsMono.variable)}>
         <Cursor />
         <Noise />
