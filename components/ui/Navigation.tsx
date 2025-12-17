@@ -20,8 +20,8 @@ export function Navigation() {
         block px-5 py-2.5 font-bold tracking-tighter text-white
         transition-all duration-[900ms] ease-[cubic-bezier(0.25,0.1,0.25,1)]
         ${isScrolled
-            ? 'backdrop-blur-2xl bg-white/[0.08] border border-white/[0.15] rounded-full shadow-[0_8px_32px_rgba(0,0,0,0.12)] scale-100'
-            : 'hover:text-white/70 scale-95'
+            ? 'md:backdrop-blur-2xl md:bg-white/[0.08] md:border md:border-white/[0.15] md:rounded-full md:shadow-[0_8px_32px_rgba(0,0,0,0.12)] md:scale-100'
+            : 'hover:text-white/70 md:scale-95'
         }
     `;
 
