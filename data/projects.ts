@@ -46,7 +46,7 @@ export const projects: Project[] = [
         techStack: ["FastAPI", "PostgreSQL", "JavaScript", "AWS", "ARIMA", "Isolation Forest"],
         images: [],
         links: {
-            github: "https://github.com/adithyan-ajish",
+            github: "https://github.com/manuqwert1234",
         },
     },
     {
@@ -68,7 +68,7 @@ export const projects: Project[] = [
         techStack: ["XGBoost", "Power BI", "Python", "Pandas", "Scikit-run"],
         images: [],
         links: {
-            github: "https://github.com/adithyan-ajish",
+            github: "https://github.com/manuqwert1234",
         },
     },
     {
@@ -90,7 +90,7 @@ export const projects: Project[] = [
         techStack: ["DeepSeek API", "NLP", "Python", "React"],
         images: [],
         links: {
-            github: "https://github.com/adithyan-ajish",
+            github: "https://github.com/manuqwert1234",
         },
     },
     {
@@ -120,7 +120,7 @@ export const projects: Project[] = [
         title: "Writer",
         shortDescription: "A minimal, ambient writing space with AI autocomplete.",
         description:
-            "Writer is a minimal, ambient writing space with AI autocomplete, real‑time sync, and lo‑fi background music. It’s designed to feel like a focused studio for long-form writing.",
+            "Writer is a minimal, ambient writing space with AI autocomplete, real‑time sync, and lo‑fi background music. It's designed to feel like a focused studio for long-form writing.",
         features: [
             {
                 title: "AI Ghost Autocomplete",
@@ -147,7 +147,7 @@ export const projects: Project[] = [
         ],
         images: [],
         links: {
-            github: "https://github.com/adithyanca/writer",
+            github: "https://github.com/manuqwert1234/writer",
         },
         gettingStarted: {
             title: "Getting Started",
@@ -155,7 +155,7 @@ export const projects: Project[] = [
                 {
                     step: 1,
                     title: "Clone and install",
-                    command: "git clone https://github.com/adithyanca/writer.git\ncd writer\nnpm install",
+                    command: "git clone https://github.com/manuqwert1234/writer.git\ncd writer\nnpm install",
                 },
                 {
                     step: 2,
