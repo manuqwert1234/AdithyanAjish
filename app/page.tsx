@@ -4,7 +4,7 @@ import { projects } from "@/data/projects";
 
 export default function Home() {
   return (
-    <main className="min-h-screen md:p-6 md:space-y-4">
+    <main className="min-h-screen p-4 md:p-6 space-y-4">
       <section className="mesh-bg border border-white/10 rounded-[40px] overflow-hidden relative">
         <Hero />
       </section>
